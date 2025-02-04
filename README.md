@@ -14,6 +14,9 @@ a user-friendly interface where the user gets a sweet alert for a successful upl
 ![image](https://github.com/user-attachments/assets/ddd2e79e-6bc4-4a6d-973c-328e9385f39d)
 ## Categories
 ![image](https://github.com/user-attachments/assets/ed728e85-141e-45f9-87c2-d62e7d462010)
+## Do post Button
+![image](https://github.com/user-attachments/assets/0d9ba0c8-4a0e-46b4-8e5d-eb0f75c55bcd)
+
 
 
 
