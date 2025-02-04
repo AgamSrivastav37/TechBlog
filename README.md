@@ -8,6 +8,13 @@ a user-friendly interface where the user gets a sweet alert for a successful upl
 ![image](https://github.com/user-attachments/assets/c26d0689-35fe-416e-99d1-c3074e5d5dcd)
 ### SignUp Page
 ![image](https://github.com/user-attachments/assets/6d1ae701-7c51-409e-87ca-a9208e0a113e)
+### Profile Page
+![image](https://github.com/user-attachments/assets/a9f6b97c-b62b-407d-af40-212acc46bd61)
+## Blog Page
+![image](https://github.com/user-attachments/assets/ddd2e79e-6bc4-4a6d-973c-328e9385f39d)
+
+
+
 
 
 
